@@ -1,0 +1,55 @@
+.mForm {
+    background-color: #e9db9c;
+    max-width: 400px;
+    width: 90%;
+    height: 500px;
+    margin: 0 auto;
+    border-radius: 15px;
+}
+
+.titulo {
+    color: #79927d;
+    text-align: center;
+    padding: 40px 0;
+}
+
+.dados {
+    max-width: 250px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin: 0 auto;
+    padding: 40px;
+    color: #e9db9c;
+    background-color: #bcac71;
+    border-radius: 15px;
+}
+
+.dados input {
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.bT {
+    max-width: 250px;
+    margin: 20px auto;
+    display: flex;
+    justify-content: center;
+}
+
+.bT button {
+    padding: 10px 20px;
+    margin: 0 10px;
+    border: none;
+    border-radius: 10px;
+}
+
+.bT button:hover {
+    background-color: rgb(210, 213, 214);
+}
+
+.telaResultado {
+    text-align: center;
+    color: #555231;
+}

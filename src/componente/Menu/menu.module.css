@@ -1,0 +1,19 @@
+.menu {
+    width: 100%;
+    padding: 10px 0 10px 10%;
+    margin: 0 0 20px 0;
+    background-color: #9c8c51;
+}
+
+.menu a {
+    color: #555231;
+    text-decoration: none;
+} 
+
+.menu a:hover {
+    color: #bcac71;
+}
+
+.menu a:visited {
+    color: #555231 ;
+}
