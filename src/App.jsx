@@ -1,8 +1,9 @@
 import './componente/Formulario'
 import './global.css'
+import './componente/app.css'
 import Formulario from './componente/Formulario'
 import Menu from './componente/Menu'
-import './app.css'
+
 
 function App() {
   return (
